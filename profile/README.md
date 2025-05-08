@@ -8,9 +8,12 @@ API specs, AI models lifecycle, devtools release notes – important updates are
 
 ## Solution
 
-Superchange.ai aggregates changes and classifies updates from countless providers into a single feed, refreshed daily. Instead of monitoring dozens of documentation pages, Superchange.ai creates a single feed. Your changelog of many changelogs.
+Superchange.ai aggregates changes and classifies updates from countless providers into a single feed, refreshed daily. Instead of monitoring dozens of documentation pages, Superchange.ai lets you create a single feed with providers you care about. Your changelog of many changelogs.
 
-Thereafter you can:
+![ui-changelog-create](https://github.com/user-attachments/assets/4467fe95-b078-4009-86f9-b7292afb4e4d)
+
+
+You can:
 
 1. Create your own changelog: Select the services, APIs, libraries, or platforms you care about. We curate what we use and love – you too can [contribute with providers you need](https://www.superchange.ai/providers/all#more).
 2. Set up smart, filtered alerts: Choose the types of updates you want to know about – security fixes, breaking changes, performance improvements, new features – and skip the rest.
