@@ -21,6 +21,6 @@ You can:
 
 ## Components
 
-1. [https://github.com/superchangeai/daily-snapshot](daily-snapshot) Archiving a daily snapshot of the DOM from chosen sources
-2. [https://github.com/superchangeai/daily-change](daily-change) Computing and classifying differences using LLM calls
-3. [https://github.com/superchangeai/www](www) Vue.js application to browse changes and set up actions at https://www.superchange.ai/
+1. [https://github.com/superchangeai/daily-snapshot](https://github.com/superchangeai/daily-snapshot) Archiving a daily snapshot of the DOM from chosen sources
+2. [https://github.com/superchangeai/daily-change](https://github.com/superchangeai/daily-change) Computing and classifying differences using LLM calls
+3. [https://github.com/superchangeai/www](https://github.com/superchangeai/www) Vue.js application to browse changes and set up actions at https://www.superchange.ai/
